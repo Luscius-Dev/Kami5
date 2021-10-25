@@ -10,7 +10,7 @@
 
 - Bind: -bind secondgui (any key)
 - Prefix: -
-- Is incompatible with clients like Phobos [English]
+- Is incompatible with clients like Phobos 
 
 - My personal discord: Luscius#0001
 
