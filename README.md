@@ -16,4 +16,10 @@
 
 Discord: https://discord.gg/SwespCtVRw
 
+Creditos:
+
+ObsidianBreaker#2473 ❤️
+
+Luscius#0001 ❤️
+
 Sheesh
